@@ -6,3 +6,5 @@ Simply run "mvn install" under the project root folder (assume Maven is installe
 
 Another extension is the original requirement is to take three parameters (hour, minute, and second) as input. 
 However, in real world we rarely pass around the time using separate parameters. So the date formatter is used for customised patterns and the time is input as a whole string.
+
+The whole project is also available on GitHub: https://github.com/NirvanaFox03/berlin-clock.git
