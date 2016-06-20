@@ -1,0 +1,7 @@
+----------------------------------------------------------------------------------------------------------------------
+Syntax: berlin-clock [input=filename] [output=filename] [time_formatter=formatter_pattern]
+all the options have their default values if not specified:
+input - stdin
+output - stdout
+time_formatter - ISO_TIME (please check JDK documentations "DateTimeFormatter" for creating valid formatter patterns)
+----------------------------------------------------------------------------------------------------------------------
